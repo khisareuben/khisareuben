@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khisareuben&label=Profile%20views&color=0e75b6&style=flat" alt="khisareuben" /> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+- 🌱 I’m currently learning **Mobile Develoment(kotlin + jetpack compose)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khisareuben](https://github.com/khisareuben)
 
